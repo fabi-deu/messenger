@@ -1,0 +1,12 @@
+[package]
+name = "messenger"
+version = "0.1.0"
+edition = "2024"
+
+[lib]
+name = "messenger_lib"
+version = "0.1.0"
+doc = true
+path = "src/lib.rs"
+
+[dependencies]
