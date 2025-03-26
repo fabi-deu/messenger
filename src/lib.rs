@@ -43,5 +43,12 @@ pub mod authentication {
         pub mod validation;
         pub(crate) mod hashing;
     }
+}
 
+pub mod ws {
+
+}
+
+pub mod templates {
+    pub mod wrapper;
 }
